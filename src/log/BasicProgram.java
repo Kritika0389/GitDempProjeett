@@ -7,6 +7,10 @@ public class BasicProgram {
 			
 			
 		}
+		
+		public void Circle() {
+			System.out.println("10");
+		}
 	public static void main(String[] args) {
 		//class name obj name = new Class name();
 		BasicProgram b = new BasicProgram();
